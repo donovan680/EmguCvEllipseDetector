@@ -29,7 +29,7 @@ There are two projects:
 
 #### Build and deploy
 This library has been written in Microsoft Visual Studio 2017. Files *.csproj contain configurations for platforms x64 with both Debug and Release modes.
-For successfull build [OpenCV](https://github.com/opencv/opencv) and [EmguCV](https://www.nuget.org/packages/EMGU.CV/) have to be installed. In addition environment variable OPENCV_DIR where opencv is installed should be set. To run the test program, opencv_world*.dll needs to be manually copy to the bin directory. 
+For successfull build [OpenCV](https://github.com/opencv/opencv) and [EmguCV](https://www.nuget.org/packages/EMGU.CV/) have to be installed. In addition environment variable OPENCV_DIR where opencv is installed should be set. To run the test program, opencv_world***.dll needs to be manually copied to the bin directory. 
 
 #### Features and Capabilities
 Here are just a few examples of what EllipseDetectorLib can do:
